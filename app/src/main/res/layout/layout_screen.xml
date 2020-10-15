@@ -24,7 +24,7 @@
         android:layout_marginRight="16dp"
         android:layout_marginBottom="8dp"
         android:gravity="center"
-        android:text="On-Demand Fitness Seesion Coming Soon!"
+        android:text="Coming Soon!"
         android:textColor="@color/intro_title_color"
         android:textSize="32dp"
         android:textStyle="bold"
